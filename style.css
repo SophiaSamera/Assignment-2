@@ -1,0 +1,64 @@
+div.sergey {
+  text-align: center;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  width: 300px;
+  border: 3px solid dimgrey;
+  padding: 3px;
+  margin: auto;
+}
+
+div.brin {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 23px;
+  text-align: center;
+}
+
+div.brin2 {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  text-align: center;
+}
+
+div.brin3 {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px;
+  text-align: center;
+}
+
+div.brin4 {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+#photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border: 6px solid black;
+}
+
+table.center {
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+  width: 50%
+}
+
+html {
+border: 10px solid dimgrey;
+background-color: lightgray;
+}
+
+#moscow {
+width: 10%;
+border: 5px solid black;
+float: left;
+margin: 20px;
+}
