@@ -52,13 +52,13 @@ table.center {
 }
 
 html {
-border: 10px solid dimgrey;
-background-color: lightgray;
+  border: 10px solid dimgrey;
+  background-color: lightgray;
 }
 
 .moscow {
-width: 10%;
-border: 5px solid black;
-float: left;
-margin: 20px;
+  width: 10%;
+  border: 5px solid black;
+  float: left;
+  margin: 20px;
 }
